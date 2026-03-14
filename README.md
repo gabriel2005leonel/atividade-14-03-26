@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Atividade 14/03/26 {
 
     public static void main(String[] args) {
